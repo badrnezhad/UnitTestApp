@@ -1,6 +1,6 @@
 # UnitTestApp
 
-Android Application in kotlin for unit test example
+Android Application in java for unit test example
 
 This is a simple application which has educational aspect.
 
